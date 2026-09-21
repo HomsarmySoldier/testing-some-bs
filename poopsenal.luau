@@ -12,7 +12,6 @@ firesignal(Event.OnClientEvent,
     {
         Items = {
             Bucks = 1492586,
-            },
         }
     }
 )
